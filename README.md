@@ -1,2 +1,3 @@
-# hello-world
+# Hello-World
 Repository demo
+SQL Star
